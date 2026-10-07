@@ -1,0 +1,6 @@
+# فایل‌های موقت و ابزار
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+tools/
